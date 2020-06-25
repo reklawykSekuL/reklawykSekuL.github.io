@@ -17,3 +17,5 @@ Von Mark Hamill porträtiert, erschien Luke zum ersten Mal in Star Wars und kehr
 > Du irrst dich, Leia. Auch du besitzt diese Macht. Und irgendwann lernst auch du, sie zu nutzen, genau wie ich. Die Macht ist stark in meiner Familie. Mein Vater hat sie… ich habe sie… und meine… Schwester hat sie auch. 
 
 > Ich bin Luke Skywalker. Ich bin hier, um Sie zu retten. 
+
+<img src="https://github.com/reklawykSekuL/reklawykSekuL.github.io/Luke_Skywalker.jpg"/>

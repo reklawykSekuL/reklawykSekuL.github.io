@@ -18,4 +18,4 @@ Von Mark Hamill porträtiert, erschien Luke zum ersten Mal in Star Wars und kehr
 
 > Ich bin Luke Skywalker. Ich bin hier, um Sie zu retten. 
 
-<img src="https://github.com/reklawykSekuL/reklawykSekuL.github.io/Luke_Skywalker.jpg"/>
+<img src="https://github.com/reklawykSekuL/reklawykSekuL.github.io/blob/master/Luke_Skywalker.jpg"/>
